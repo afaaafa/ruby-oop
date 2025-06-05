@@ -287,9 +287,9 @@ Encapsulamento = controlar quem pode acessar o quê.
 
 Em Ruby temos 3 níveis:
 
-Public    -> Métodos podem ser chamados por qualquer código. São herdados.
-Private   -> Métodos privados só podem ser chamados pelo próprio objeto. Não podem ser herdados.
-Protected -> Métodos protegidos podem ser chamados por objetos da mesma classe. São herdados.
+- Public    -> Métodos podem ser chamados por qualquer código. São herdados.
+- Private   -> Métodos privados só podem ser chamados pelo próprio objeto. Não podem ser herdados.
+- Protected -> Métodos protegidos podem ser chamados por objetos da mesma classe. São herdados.
 
 
 ---
